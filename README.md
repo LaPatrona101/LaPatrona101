@@ -2,7 +2,7 @@
  
 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/normarie-martinez-flores-274464326/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:normariemartinezflores19@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/normarie-martinez-flores-274464326/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:normariemartinezflores19@gmail.com) 
 
 I’m a freshman Computer Science & Engineering student at the University of Puerto Rico – Mayagüez, with a strong interest in applying technology to solve real-world problems.
 
